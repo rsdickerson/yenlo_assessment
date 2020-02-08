@@ -1,0 +1,20 @@
+body {
+    padding-top: 1rem;
+}
+.starter-template {
+    padding: 1rem 1rem;
+    text-align: left;
+}
+
+.links {
+    text-emphasis-style: triangle;
+    padding: 1rem 1rem;
+    color:#204050
+}
+h1{
+    color:#0000FF;
+}
+
+h2{
+    color:#FF0000;
+}
